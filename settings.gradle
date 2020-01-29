@@ -1,0 +1,3 @@
+include 'Aparecium-core'
+findProject(':Aparecium-core')?.name = 'aparecium-core'
+
